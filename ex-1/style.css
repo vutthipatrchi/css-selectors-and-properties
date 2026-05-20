@@ -1,1 +1,13 @@
-/* start coding here */
+.registration-form input {
+  height: 50px;
+  width: 240px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+.registration-form button {
+  width: 120px;
+  height: 36px;
+  background-color: khaki;
+  border: 1px solid lightgrey;
+}
